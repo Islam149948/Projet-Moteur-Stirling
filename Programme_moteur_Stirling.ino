@@ -1,8 +1,8 @@
 const int NB_TROUS = 50;
 
 // Volumes réels (cm³)
-const float Vmax = 35.0;
-const float Vmin = 22.4;
+const float Vmax = 44.0;
+const float Vmin = 32.0;
 
 // Capteur de pression
 const float VREF = 5.0;        // tension Arduino
